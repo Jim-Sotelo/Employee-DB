@@ -12,30 +12,32 @@ exisiting workforce set to retire soon to become mentors for the next wave of em
 
 * There are over 70,000 employees set to retire
 
-![](data/Fig1.png)
+![](Data/fig1.png)
 
-* Senior staff is the most effect as Senior Engineering and Senior Staff are set to lose 
+* Senior staff is the most effected as Senior Engineering and Senior Staff are set to lose 
 over 24,000 each.
 
 * Our solution to this issue is to create a mentorship programing that our current
-employees that are set to retire and participate in and mentor the new employees.
+employees that are set to retire can participate in and mentor the new employees.
 
-* Pewlett Hackard has over 1500 employees that can take part in this mentorship program
+* Pewlett Hackard has over 1500 employees that can take part in this mentorship program. We
+just set up the mentorship parameters if they are within two years of retirement.
 
 ## Summary 
 
 * how many roles will need to be filled as the "silver tsunami" begins? 
-There are over 70,000 roles that will need to be filled.
+There are 72,458 roles that will need to be filled.
 
-![](data/Fig3.png)
+![](Data/fig3.png)
 
 * Are there enough qualified, retirment ready employees in the departments to mentor the next generation?
 
-It doesn't appear that Pewlett Hackard has enough current employes set to assist in all the mentorship.
-there is only 1549 current employyes that qualify for the mentorship program.  We'll need to expand the
+It doesn't appear that Pewlett Hackard has enough current employes set to assist in the mentorship program.
+There is only 1549 current employees that qualify for the mentorship program.  We'll need to expand the
 search to more than just the employees set to retire in two years. 
 
-![](data/Fig2.png)
+![](Data/fig2.png)
+
 
 
 
